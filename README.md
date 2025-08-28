@@ -16,10 +16,6 @@ This DApp enables users to **create escrow contracts**, **deposit funds securely
 ## 📂 Project Structure
 ```
 📦 TrustEscrow-main
-┣ 📜 .gitignore
-┣ 📜 README.md
-┣ 📜 SETUP_GUIDE.md
-┣ 📜 config-overrides.js
 ┣ 📜 hardhat.config.js
 ┣ 📜 package-lock.json
 ┣ 📜 package.json
