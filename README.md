@@ -60,7 +60,7 @@ This project is licensed under the **MIT License** – see the LICENSE file for 
 
 Here are some snapshots of the Escrow Smart Contract DApp interface:
 
-![Homepage]! <img width="1352" height="902" alt="HomePage" src="https://github.com/user-attachments/assets/fea92e15-5769-422b-83a9-04d52d2eddf7" />
+Homepage <img width="1352" height="902" alt="HomePage" src="https://github.com/user-attachments/assets/fea92e15-5769-422b-83a9-04d52d2eddf7" />
 
 
 
