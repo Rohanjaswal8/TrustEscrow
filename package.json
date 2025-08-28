@@ -1,0 +1,66 @@
+{
+  "name": "escrow-dapp",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@openzeppelin/contracts": "^4.9.3",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "chart.js": "^4.4.1",
+    "cors": "^2.8.5",
+    "dotenv": "^16.5.0",
+    "ethers": "^6.9.0",
+    "express": "^5.1.0",
+    "framer-motion": "^10.16.16",
+    "hardhat": "^2.24.1",
+    "ipfs-http-client": "^60.0.1",
+    "mongodb": "^6.17.0",
+    "mongoose": "^8.16.0",
+    "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.12.0",
+    "react-router-dom": "^6.21.0",
+    "react-scripts": "5.0.1",
+    "react-toastify": "^9.1.3",
+    "web-vitals": "^2.1.4",
+    "web3.storage": "^4.5.5"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "server": "node server/server.js"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.6"
+  },
+  "description": "A decentralized escrow application built with Solidity, React, and Web3.js. This application allows users to create escrow contracts, deposit funds, and handle disputes in a secure and transparent manner.",
+  "main": "config-overrides.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
