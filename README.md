@@ -60,18 +60,19 @@ This project is licensed under the **MIT License** – see the LICENSE file for 
 
 Here are some snapshots of the Escrow Smart Contract DApp interface:
 
-<H3>**Homepage**</H3> <img width="1352" height="902" alt="HomePage" src="https://github.com/user-attachments/assets/fea92e15-5769-422b-83a9-04d52d2eddf7" />
-**Recent Escrows** <img width="1372" height="722" alt="Recent Escrows" src="https://github.com/user-attachments/assets/60606ac5-9c62-45d4-9cc8-057c27d04ae0" />
+<H3>Homepage</H3> <img width="1352" height="902" alt="HomePage" src="https://github.com/user-attachments/assets/fea92e15-5769-422b-83a9-04d52d2eddf7" />
+<h3> Recent Escrows </h3> <img width="1372" height="722" alt="Recent Escrows" src="https://github.com/user-attachments/assets/60606ac5-9c62-45d4-9cc8-057c27d04ae0" />
 
-**Dashboard**<img width="1377" height="762" alt="Dashboard" src="https://github.com/user-attachments/assets/3e3bc312-a637-40ee-854f-9d373af81dba" />
+<h3> Dashboard </h3> <img width="1377" height="762" alt="Dashboard" src="https://github.com/user-attachments/assets/3e3bc312-a637-40ee-854f-9d373af81dba" />
 
-**Create Escrow**<img width="1238" height="857" alt="Create Escrow" src="https://github.com/user-attachments/assets/b1619726-c9cb-4e4d-af31-6466178aaec2" />
+<h3>Create Escrow </h3><img width="1238" height="857" alt="Create Escrow" src="https://github.com/user-attachments/assets/b1619726-c9cb-4e4d-af31-6466178aaec2" />
 
-**Dispute Resolution**<img width="1368" height="872" alt="Dispute Resolution" src="https://github.com/user-attachments/assets/3b38aee1-c124-4bb5-a9ec-91032c91adbf" />
+<h3> Dispute Resolution </h3> <img width="1368" height="872" alt="Dispute Resolution" src="https://github.com/user-attachments/assets/3b38aee1-c124-4bb5-a9ec-91032c91adbf" />
 
-**Profile** <img width="1337" height="838" alt="Profile" src="https://github.com/user-attachments/assets/8a3fc483-5f70-4ac5-afe8-f074124505f4" />
+<h3> Profile </h3> <img width="1337" height="838" alt="Profile" src="https://github.com/user-attachments/assets/8a3fc483-5f70-4ac5-afe8-f074124505f4" />
 
-**MetaMask**  <img width="501" height="746" alt="MetaMask" src="https://github.com/user-attachments/assets/675c0c0e-3560-4b34-b015-186b25cf975a" />
+<h3> MetaMask </h3>
+<img width="501" height="746" alt="MetaMask" src="https://github.com/user-attachments/assets/675c0c0e-3560-4b34-b015-186b25cf975a" />
 
 
 
