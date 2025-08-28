@@ -1,5 +1,5 @@
 🚀 Escrow Smart Contract DApp
-
+  
 A decentralized escrow application built with Solidity, React, and Web3.js.
 This DApp enables users to create escrow contracts, deposit funds securely, and resolve disputes transparently.
 
