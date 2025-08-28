@@ -1,58 +1,57 @@
-🚀 Escrow Smart Contract DApp
-  
-A decentralized escrow application built with Solidity, React, and Web3.js.
-This DApp enables users to create escrow contracts, deposit funds securely, and resolve disputes transparently.
+# 🚀 Escrow Smart Contract DApp
 
-✨ Key Features
-  
-🤝 Escrow Contracts – Create agreements between buyers, sellers, and arbitrators
-💰 Secure Fund Handling – Deposit and release funds directly on-chain
-⚖️ Dispute Resolution – Raise disputes and submit evidence for resolution
-📂 IPFS Integration – Store dispute evidence on decentralized storage
-📡 Real-time Tracking – Monitor escrow contract status live
-🔗 Wallet Integration – Seamless MetaMask support
-🎨 Modern UI – Responsive design built with Tailwind CSS
+A **decentralized escrow application** built with **Solidity**, **React**, and **Web3.js**.  
+This DApp enables users to **create escrow contracts**, **deposit funds securely**, and **resolve disputes transparently**.
 
-🛠 Smart Contract Highlights
+## ✨ Key Features
 
-• Escrow creation with buyer, seller, and arbitrator roles
-• Secure fund deposit and controlled release
-• Decentralized dispute resolution
-• IPFS-based file storage for tamper-proof evidence
-• Real-time contract status updates
+- 🤝 **Escrow Contracts** – Create agreements between buyers, sellers, and arbitrators  
+- 💰 **Secure Fund Handling** – Deposit and release funds directly on-chain  
+- ⚖️ **Dispute Resolution** – Raise disputes and submit evidence for resolution  
+- 📂 **IPFS Integration** – Store dispute evidence on decentralized storage  
+- 📡 **Real-time Tracking** – Monitor escrow contract status live  
+- 🔗 **Wallet Integration** – Seamless MetaMask support  
+- 🎨 **Modern UI** – Responsive design built with Tailwind CSS  
 
-💻 Frontend Highlights
+## 🛠 Smart Contract Highlights
 
-• Connect MetaMask wallet
-• Create, view, and manage escrow contracts
-• Upload evidence directly to IPFS
-• Fully responsive design for both desktop and mobile
+- Escrow creation with buyer, seller, and arbitrator roles  
+- Secure fund deposit and controlled release  
+- Decentralized dispute resolution  
+- IPFS-based file storage for tamper-proof evidence  
+- Real-time contract status updates  
 
-🔐 Security Features
+## 💻 Frontend Highlights
 
-• Implements smart contract security best practices
-• Validates inputs and enforces strict access control
-• Securely handles funds through escrow logic
-• Uses IPFS for decentralized, tamper-resistant file storage
+- Connect MetaMask wallet  
+- Create, view, and manage escrow contracts  
+- Upload evidence directly to IPFS  
+- Fully responsive design for both desktop and mobile  
 
-📖 Usage Flow
-• Connect your MetaMask wallet
-• Create an escrow contract between buyer and seller
-• Deposit funds securely into the contract
-• Release funds or raise disputes when needed
-• Arbitrators resolve disputes transparently
+## 🔐 Security Features
 
-📜 License
+- Implements smart contract security best practices  
+- Validates inputs and enforces strict access control  
+- Securely handles funds through escrow logic  
+- Uses IPFS for decentralized, tamper-resistant file storage  
 
-• This project is licensed under the MIT License – see the LICENSE file for details.
+## 📖 Usage Flow
 
-🙌 Acknowledgments
+- Connect your MetaMask wallet  
+- Create an escrow contract between buyer and seller  
+- Deposit funds securely into the contract  
+- Release funds or raise disputes when needed  
+- Arbitrators resolve disputes transparently  
 
-• Ethereum Foundation
-• MetaMask
-• IPFS
-• Hardhat
+## 📜 License
 
-React
+This project is licensed under the **MIT License** – see the LICENSE file for details.  
 
-Tailwind CSS
+## 🙌 Acknowledgments
+
+- Ethereum Foundation  
+- MetaMask  
+- IPFS  
+- Hardhat  
+- React  
+- Tailwind CSS  
