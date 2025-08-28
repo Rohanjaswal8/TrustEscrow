@@ -14,6 +14,7 @@ This DApp enables users to **create escrow contracts**, **deposit funds securely
 - 🎨 **Modern UI** – Responsive design built with Tailwind CSS
 
 ## 📂 Project Structure
+```
 📦 TrustEscrow-main
 ┣ 📜 .gitignore
 ┣ 📜 README.md
@@ -62,6 +63,7 @@ This DApp enables users to **create escrow contracts**, **deposit funds securely
 ┃ ┗ 📜 index.js
 ┣ 📂 public
 ┃ ┗ 📜 index.html
+```
 
 ## 🛠 Smart Contract Highlights
 
