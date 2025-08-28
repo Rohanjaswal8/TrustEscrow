@@ -4,7 +4,7 @@ A decentralized escrow application built with Solidity, React, and Web3.js.
 This DApp enables users to create escrow contracts, deposit funds securely, and resolve disputes transparently.
 
 ✨ Key Features
-
+  
 🤝 Escrow Contracts – Create agreements between buyers, sellers, and arbitrators
 💰 Secure Fund Handling – Deposit and release funds directly on-chain
 ⚖️ Dispute Resolution – Raise disputes and submit evidence for resolution
