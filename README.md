@@ -123,5 +123,17 @@ Here are some snapshots of the Escrow Smart Contract DApp interface:
 <img width="501" height="746" alt="MetaMask" src="https://github.com/user-attachments/assets/675c0c0e-3560-4b34-b015-186b25cf975a" />
 
 
+## 📬 Contact  
+
+For queries or collaborations:  
+📧 Email: rohanjaswal822.com  
+🔗 LinkedIn: www.linkedin.com/in/rohan-jaswal8
+
+---
+
+⭐ If you like this project, don’t forget to **star this repo** and share it with others!  
+
+
+
 
 
