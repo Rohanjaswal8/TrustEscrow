@@ -11,7 +11,57 @@ This DApp enables users to **create escrow contracts**, **deposit funds securely
 - 📂 **IPFS Integration** – Store dispute evidence on decentralized storage  
 - 📡 **Real-time Tracking** – Monitor escrow contract status live  
 - 🔗 **Wallet Integration** – Seamless MetaMask support  
-- 🎨 **Modern UI** – Responsive design built with Tailwind CSS  
+- 🎨 **Modern UI** – Responsive design built with Tailwind CSS
+
+## 📂 Project Structure
+📦 TrustEscrow-main
+┣ 📜 .gitignore
+┣ 📜 README.md
+┣ 📜 SETUP_GUIDE.md
+┣ 📜 config-overrides.js
+┣ 📜 hardhat.config.js
+┣ 📜 package-lock.json
+┣ 📜 package.json
+┣ 📜 postcss.config.js
+┣ 📜 tailwind.config.js
+┣ 📂 artifacts
+┃ ┗ 📂 contracts
+┃ ┗ 📂 Escrow.sol
+┃ ┣ 📜 Escrow.dbg.json
+┃ ┗ 📜 Escrow.json
+┣ 📂 backend
+┃ ┣ 📜 package-lock.json
+┃ ┣ 📜 package.json
+┃ ┗ 📂 node_modules (dependencies)
+┣ 📂 src
+┃ ┣ 📂 components
+┃ ┃ ┣ 📜 LoadingSkeleton.js
+┃ ┃ ┣ 📜 Navbar.js
+┃ ┃ ┣ 📜 Notification.js
+┃ ┃ ┣ 📜 ProjectChat.js
+┃ ┃ ┗ 📜 SupportForm.js
+┃ ┣ 📂 context
+┃ ┃ ┣ 📜 ChatContext.js
+┃ ┃ ┗ 📜 Web3Context.js
+┃ ┣ 📂 contracts
+┃ ┃ ┣ 📜 Escrow-address.json
+┃ ┃ ┗ 📜 Escrow.json
+┃ ┣ 📂 pages
+┃ ┃ ┣ 📜 CreateProject.js
+┃ ┃ ┣ 📜 Dashboard.js
+┃ ┃ ┣ 📜 Dispute.js
+┃ ┃ ┣ 📜 DisputeCenter.js
+┃ ┃ ┣ 📜 Documentation.js
+┃ ┃ ┣ 📜 Home.js
+┃ ┃ ┣ 📜 Profile.js
+┃ ┃ ┣ 📜 SupportDashboard.js
+┃ ┃ ┣ 📜 TransactionHistory.js
+┃ ┃ ┣ 📜 UserProfile.js
+┃ ┃ ┗ 📜 ViewEscrow.js
+┃ ┣ 📜 App.js
+┃ ┗ 📜 index.js
+┣ 📂 public
+┃ ┗ 📜 index.html
 
 ## 🛠 Smart Contract Highlights
 
