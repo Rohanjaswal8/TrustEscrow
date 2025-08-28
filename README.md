@@ -54,4 +54,13 @@ This project is licensed under the **MIT License** – see the LICENSE file for 
 - IPFS  
 - Hardhat  
 - React  
-- Tailwind CSS  
+- Tailwind CSS
+
+## Screenshots
+
+Here are some snapshots of the Escrow Smart Contract DApp interface:
+
+![Homepage]![cars](https://github.com/user-attachments/assets/16c4a2f0-3591-43d9-b7f8-9c3d9010a81c)
+
+![Dashboard](images/dashboard.png)
+
